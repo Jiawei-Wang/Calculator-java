@@ -1,0 +1,11 @@
+Components:
+1. UI
+2. UI logic
+3. calculation logic
+
+Code structure:
+1. calculation status
+2. calculation results
+3. UI
+4. Calculator
+5. Main
